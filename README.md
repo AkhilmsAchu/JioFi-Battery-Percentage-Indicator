@@ -10,6 +10,7 @@
 </p>
 
 > 😋  Python Application that can show battery/charging details of JioFi in task bar of windows 🍴
+> 😋  It will also Alert with notification on Battery Low or on Battery Fully Charge 🍴
 
 ### 🏠 [Homepage](https://github.com/AkhilmsAchu/JioFi-Battery-Percentage-Indicator)
 
@@ -25,6 +26,17 @@ pip install requirements.txt
 ```sh
 py JioFi.pyw
 ```
+
+## ✨ Screeshots
+
+<p align="center">
+  <img src="https://github.com/AkhilmsAchu/JioFi-Battery-Percentage-Indicator/blob/main/Screenshots/Screenshot%202022-08-02%20123234.png?raw=true" alt="output"/>
+  <img src="https://github.com/AkhilmsAchu/JioFi-Battery-Percentage-Indicator/blob/main/Screenshots/Screenshot%202022-08-02%20123300.png?raw=true" alt="output"/>
+  <img src="https://github.com/AkhilmsAchu/JioFi-Battery-Percentage-Indicator/blob/main/Screenshots/Screenshot%202022-08-02%20123326.png?raw=true" alt="output"/>
+  <img src="https://github.com/AkhilmsAchu/JioFi-Battery-Percentage-Indicator/blob/main/Screenshots/Screenshot%202022-08-03%20100714.png?raw=true" alt="output"/>
+  <img src="https://github.com/AkhilmsAchu/JioFi-Battery-Percentage-Indicator/blob/main/Screenshots/Screenshot%202022-08-02%20123400.png?raw=true" alt="output"/>
+  
+</p>
 
 ## Author
 
@@ -44,4 +56,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Akhil MS](https://github.com/AKHILMSACHU).<br />
-This project is [Unlicense](https://unlicense.org) licensed.
+This project is [Unlicensed](https://unlicense.org).
